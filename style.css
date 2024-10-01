@@ -1,4 +1,9 @@
-footer {
+
+
+ body {
+    background-color: bisque;
+    }
+ footer {
     background-color: rgb(255, 217, 223);
     color: rgb(82, 0, 0);
     position: fixed;
